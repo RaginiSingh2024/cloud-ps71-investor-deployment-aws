@@ -2,8 +2,8 @@
 
 ## PS-71: 30-Minute Investor Deployment Challenge
 
-[![Project Documentation](https://img.shields.io/badge/Project-Documentation-blue?style=for-the-badge&logo=google-docs)](PASTE_YOUR_DOC_LINK) [![AWS Deployment](https://img.shields.io/badge/AWS-EC2%20Deployment-orange?style=for-the-badge&logo=amazon-aws)](PASTE_YOUR_DEPLOYMENT_LINK)
-
+[![Project Documentation](https://img.shields.io/badge/Project-Documentation-blue?style=for-the-badge&logo=google-docs)](PASTE_YOUR_DOC_LINK)
+[![AWS Deployment](https://img.shields.io/badge/AWS-EC2%20Deployment-orange?style=for-the-badge&logo=amazon-aws)](http://44.221.46.97)
 
 ### Student Information
 

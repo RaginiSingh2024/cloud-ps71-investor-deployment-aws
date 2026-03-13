@@ -284,8 +284,11 @@ Using AWS EC2, a virtual server was created, configured with Apache web server, 
 # Author
 
 **Ragini Singh**
+
 Cloud Computing Case Study Project
+
 Sem IV Sprint 1
+
 Btech CSE 
 
 
